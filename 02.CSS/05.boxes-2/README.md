@@ -1,14 +1,12 @@
 **CSS Text, Box, and Navbar Styling Challenge: Designing a Homepage**
 
-
 Here is what you have to make:
 ![video of end result of this task](./task5.png)
-
 
 Welcome to the CSS Text, Box, and Navbar Styling Challenge! In this exercise, you'll have the opportunity to apply various CSS properties to create an appealing homepage design with a navigation bar. Your task is to design the header section of a homepage, complete with a navigation bar. Below is the HTML structure for your homepage:
 
 ```html
-<!DOCTYPE html>
+<!doctype html>
 <html>
   <head>
     <link rel="stylesheet" type="text/css" href="styles.css" />

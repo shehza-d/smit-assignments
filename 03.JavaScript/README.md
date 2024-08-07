@@ -10,4 +10,3 @@ you can also add assignments by forking repo
 | --- | ------------------- |
 | 1.  | Odd Even Calculator |
 | 2.  | Weather App         |
-

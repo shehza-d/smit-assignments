@@ -1,14 +1,12 @@
 **CSS Text Styling Challenge: Mastering Text**
 
-
 Here is what you have to make:
 ![screenshot of end result of this task](./task3.png)
-
 
 Welcome to the CSS Text Styling Challenge! This exercise will test your understanding of various text-related properties in CSS. Below is the provided HTML structure:
 
 ```html
-<!DOCTYPE html>
+<!doctype html>
 <html>
   <head>
     <link rel="stylesheet" type="text/css" href="styles.css" />

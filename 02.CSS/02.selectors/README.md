@@ -1,14 +1,12 @@
 # Comprehensive CSS Selector Challenge: Colorful Styles
 
-
 Here is what you have to make:
 ![screenshot of end result of this task](./task2.png)
-
 
 Welcome to the CSS Selector Challenge! This exercise will help you grasp the different selectors, understand cascading, and enhance your styling skills. Below is the provided HTML structure:
 
 ```html
-<!DOCTYPE html>
+<!doctype html>
 <html>
   <head>
     <link rel="stylesheet" type="text/css" href="styles.css" />

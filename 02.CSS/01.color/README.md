@@ -6,7 +6,7 @@ Here is what you have to make:
 Get ready to dive into the vibrant world of CSS colors! This practice question will test your knowledge of different color concepts. Below is the given HTML structure:
 
 ```html
-<!DOCTYPE html>
+<!doctype html>
 <html>
   <head>
     <link rel="stylesheet" type="text/css" href="styles.css" />

@@ -1,4 +1,3 @@
-
 **Question: Building a Website Header with Navigation**
 
 **Instructions:**
@@ -8,28 +7,28 @@ You are tasked with creating a website header with navigation for an online clot
 Use the following HTML code as a starting point:
 
 ```html
-<!DOCTYPE html>
+<!doctype html>
 <html>
-<head>
-    <link rel="stylesheet" type="text/css" href="styles.css">
-</head>
-<body>
+  <head>
+    <link rel="stylesheet" type="text/css" href="styles.css" />
+  </head>
+  <body>
     <header>
-        <div class="logo">
-            <img src="logo.png" alt="Store Logo">
-        </div>
-        <nav>
-            <ul>
-                <li><a href="#">Home</a></li>
-                <li><a href="#">Shop</a></li>
-                <li><a href="#">Products</a></li>
-                <li><a href="#">About Us</a></li>
-                <li><a href="#">Contact</a></li>
-            </ul>
-        </nav>
+      <div class="logo">
+        <img src="logo.png" alt="Store Logo" />
+      </div>
+      <nav>
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Shop</a></li>
+          <li><a href="#">Products</a></li>
+          <li><a href="#">About Us</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </nav>
     </header>
     <!-- Rest of your website content goes here -->
-</body>
+  </body>
 </html>
 ```
 

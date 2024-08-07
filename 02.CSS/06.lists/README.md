@@ -1,14 +1,12 @@
 **CSS List Styling Challenge: Designing a Recipe Page**
 
-
 Here is what you have to make:
 ![video of end result of this task](./task6.jpeg)
-
 
 Welcome to the CSS List Styling and Text Manipulation Challenge! In this exercise, you'll apply various CSS properties to create a practical and visually appealing recipe webpage. Your task is to design a webpage that showcases a delicious recipe, complete with a list of ingredients and preparation steps. Below is the HTML structure for the recipe webpage:
 
 ```html
-<!DOCTYPE html>
+<!doctype html>
 <html>
   <head>
     <link rel="stylesheet" type="text/css" href="styles.css" />

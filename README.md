@@ -27,6 +27,6 @@ Remember to provide clear instructions and resources if needed, and encourage st
  | 10.  |                         | -->
 
 ### Resources
- 
-1. [HTML & CSS Book](https://github.com/shehza-d/Learning-Resources/blob/main/02.Starting-of-Development(HTML)/00.Web_development_book(jon-ducket).pdf)
-1. [JavaScript Book](https://github.com/shehza-d/Learning-Resources/blob/main/04.JS-Books/JavaScript-book(A-smarter-way-to-learn-JS).pdf)
+
+1. [HTML & CSS Book](<https://github.com/shehza-d/Learning-Resources/blob/main/02.Starting-of-Development(HTML)/00.Web_development_book(jon-ducket).pdf>)
+1. [JavaScript Book](<https://github.com/shehza-d/Learning-Resources/blob/main/04.JS-Books/JavaScript-book(A-smarter-way-to-learn-JS).pdf>)
