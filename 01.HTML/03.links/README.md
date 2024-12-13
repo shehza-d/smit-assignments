@@ -10,11 +10,11 @@ This exercise will evaluate your proficiency in text markup, lists, and links wi
 
 4. Organize a list of classic novels with their authors in an ordered list (`<ol>`):
 
-   - "Pride and Prejudice" by Jane Austen
-   - "1984" by George Orwell
-   - "To Kill a Mockingbird" by Harper Lee
-   - "Moby-Dick" by Herman Melville
-   - "The Great Gatsby" by F. Scott Fitzgerald
+   1. "Pride and Prejudice" by Jane Austen
+   1. "1984" by George Orwell
+   1. "To Kill a Mockingbird" by Harper Lee
+   1. "Moby-Dick" by Herman Melville
+   1. "The Great Gatsby" by F. Scott Fitzgerald
 
 5. In a new paragraph, provide a quote about the magic of reading using the `<blockquote>` tag. Include a `<cite>` element to attribute the quote to its author.
 
