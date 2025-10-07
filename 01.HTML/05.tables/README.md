@@ -24,11 +24,7 @@ This exercise will evaluate your proficiency in creating HTML tables, covering a
 
 8. Create a footer row using the `<tfoot>` element to display the average salary and total number of employees.
 
-9. Ensure that each table cell is appropriately styled using the `border` attribute.
-
-10. Conclude with a brief reflection on the significance of using tables for structured data representation.
-
-11. Validate your HTML document in a web browser to confirm that the table is accurately displayed and formatted.
+9. Ensure that each table cell is appropriately styled using the `border="1"` attribute.
 
 Test your understanding of various table elements to effectively present employee data in a structured and visually appealing manner. Best of luck!
 
