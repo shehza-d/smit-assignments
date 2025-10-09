@@ -4,11 +4,9 @@
 
 This exercise will evaluate your skills in text markup, lists, links, and image usage within HTML. Rigorously test the image section by covering all aspects of image incorporation. Follow the instructions below to structure and format the provided content:
 
-1. Set the document title as "Text Markup, Lists, Links, and Image Challenge."
+1. Begin with a heading "Exploring Natural Wonders."
 
-2. Begin with a heading "Exploring Natural Wonders."
-
-3. Write a paragraph describing breathtaking natural landscapes around the world. Use the `<strong>` tag to emphasize the locations.
+1. Write a paragraph describing breathtaking natural landscapes around the world.
 
 4. Organize the following natural wonders and their countries in an ordered list (`<ol>`):
 
@@ -18,15 +16,11 @@ This exercise will evaluate your skills in text markup, lists, links, and image 
    - Mount Everest, Nepal
    - Great Barrier Reef, Australia
 
-5. In a new paragraph, provide a quote about the beauty of nature using the `<blockquote>` tag. Include a `<cite>` element to attribute the quote to its author.
+7. Insert an image of the _Beauty of Pakistan_. Use the image file "grand-canyon.jpg" and provide appropriate attributes including `alt`, `title`, `width`, and `height`.
 
-6. Write a bullet-point list using the `<ul>` tag to enumerate the benefits of experiencing natural beauty.
+9. Insert **2** images
 
-7. Insert an image of the Grand Canyon. Use the image file "grand-canyon.jpg" and provide appropriate attributes including `alt`, `title`, `width`, and `height`.
-
-8. Put the image in the `<figure>` tag and create a caption for the image using the `<figcaption>` tag. The caption should read "The Majestic Grand Canyon."
-
-9. Insert an image link with the text "Explore Victoria Falls" that links to "https://www.example.com/victoria-falls."
+https://wander-lush.org/wp-content/uploads/2020/01/Beautiful-places-in-Pakistan-Hingol-National-Park-LukasBischoffGetty-CanvaPro.jpg
 
 Ensure your HTML document is well-structured and employs suitable text markup, list, link, and image tags for each requirement. Validate your document in a web browser to confirm that the elements are accurately displayed and formatted.
 
