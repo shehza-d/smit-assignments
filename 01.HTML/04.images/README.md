@@ -18,9 +18,8 @@ This exercise will evaluate your skills in text markup, lists, links, and image 
 
 
 9. Insert any **2** images
-
-  - One image with Relative URL (download the image file [victoria-falls.jpg](https://github.com/shehza-d/smit-assignments/blob/main/01.HTML%2F04.images%2Fimages%2Fvictoria-falls.jpg) then give path to it in src) 
-  - One image with Absolute URL (put this link in src https://wander-lush.org/wp-content/uploads/2020/01/Beautiful-places-in-Pakistan-Hingol-National-Park-LukasBischoffGetty-CanvaPro.jpg)
+   - One image with Relative URL (download the image file [victoria-falls.jpg](https://github.com/shehza-d/smit-assignments/blob/main/01.HTML%2F04.images%2Fimages%2Fvictoria-falls.jpg) then give path to it in src) 
+   - One image with Absolute URL (put this link in src https://wander-lush.org/wp-content/uploads/2020/01/Beautiful-places-in-Pakistan-Hingol-National-Park-LukasBischoffGetty-CanvaPro.jpg)
 
 1. Use appropriate attributes including `alt`, `title`, `width`, and `height`.
 
