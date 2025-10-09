@@ -16,11 +16,13 @@ This exercise will evaluate your skills in text markup, lists, links, and image 
    - Mount Everest, Nepal
    - Great Barrier Reef, Australia
 
-7. Insert an image of the _Beauty of Pakistan_. Use the image file "grand-canyon.jpg" and provide appropriate attributes including `alt`, `title`, `width`, and `height`.
 
-9. Insert **2** images
+9. Insert any **2** images
 
-https://wander-lush.org/wp-content/uploads/2020/01/Beautiful-places-in-Pakistan-Hingol-National-Park-LukasBischoffGetty-CanvaPro.jpg
+  - One image with Relative URL (download the image file [victoria-falls.jpg](https://github.com/shehza-d/smit-assignments/blob/main/01.HTML%2F04.images%2Fimages%2Fvictoria-falls.jpg) then give path to it in src) 
+  - One image with Absolute URL (put this link in src https://wander-lush.org/wp-content/uploads/2020/01/Beautiful-places-in-Pakistan-Hingol-National-Park-LukasBischoffGetty-CanvaPro.jpg)
+
+1. Use appropriate attributes including `alt`, `title`, `width`, and `height`.
 
 Ensure your HTML document is well-structured and employs suitable text markup, list, link, and image tags for each requirement. Validate your document in a web browser to confirm that the elements are accurately displayed and formatted.
 
