@@ -6,7 +6,7 @@ This exercise will evaluate your proficiency in creating HTML tables, covering a
 
 1. Set the document title as "HTML Tables Challenge."
 
-2. Begin with a heading "Employee Information."
+1. Begin with a heading "Employee Information."
 
 3. Design a table to present information about employees. Create the following columns: "Employee ID," "Name," "Position," "Department," "Salary," and "Joining Date."
 
@@ -21,8 +21,6 @@ This exercise will evaluate your proficiency in creating HTML tables, covering a
 6. Span the "Employee ID" and "Name" headings across two columns using the `colspan` attribute.
 
 7. In the "Position" column of Employee 3, span two rows using the `rowspan` attribute.
-
-8. Create a footer row using the `<tfoot>` element to display the average salary and total number of employees.
 
 9. Ensure that each table cell is appropriately styled using the `border="1"` attribute.
 
