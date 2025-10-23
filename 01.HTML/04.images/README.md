@@ -8,7 +8,7 @@ This exercise will evaluate your skills in text markup, lists, links, and image 
 
 1. Write a paragraph describing breathtaking natural landscapes around the world.
 
-4. Organize the following natural wonders and their countries in an ordered list (`<ol>`):
+1. Organize the following natural wonders and their countries in an ordered list (`<ol>`):
 
    - Victoria Falls, Zimbabwe
    - Grand Canyon, USA
@@ -16,9 +16,9 @@ This exercise will evaluate your skills in text markup, lists, links, and image 
    - Mount Everest, Nepal
    - Great Barrier Reef, Australia
 
+1. Insert any **2** images
 
-9. Insert any **2** images
-   - One image with Relative URL (download the image file [victoria-falls.jpg](https://github.com/shehza-d/smit-assignments/blob/main/01.HTML%2F04.images%2Fimages%2Fvictoria-falls.jpg) then give path to it in src) 
+   - One image with Relative URL (download the image file [victoria-falls.jpg](https://github.com/shehza-d/smit-assignments/blob/main/01.HTML%2F04.images%2Fimages%2Fvictoria-falls.jpg) then give path to it in src)
    - One image with Absolute URL (put this link in src https://wander-lush.org/wp-content/uploads/2020/01/Beautiful-places-in-Pakistan-Hingol-National-Park-LukasBischoffGetty-CanvaPro.jpg)
 
 1. Use appropriate attributes including `alt`, `title`, `width`, and `height`.
