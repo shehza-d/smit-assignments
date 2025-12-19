@@ -1,4 +1,4 @@
-**CSS Text and Box Styling Challenge: Designing a Product Card**
+# **CSS Text and Box Styling Challenge: Designing a Product Card**
 
 Here is what you have to make:
 ![video of end result of this task](./task4.png)
