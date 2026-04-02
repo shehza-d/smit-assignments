@@ -8,21 +8,20 @@ This exercise will evaluate your proficiency in creating HTML tables, covering a
 
 1. Begin with a heading "Employee Information."
 
-3. Design a table to present information about employees. Create the following columns: "Employee ID," "Name," "Position," "Department," "Salary," and "Joining Date."
+1. Design a table to present information about employees. Create the following columns: "Employee ID," "Name," "Position," "Department," "Salary," and "Joining Date."
 
-4. Employ the `<th>` tag to establish table headings for each column.
+1. Employ the `<th>` tag to establish table headings for each column.
 
-5. Populate the table with data for three employees as follows:
-
+1. Populate the table with data for three employees as follows:
    - Employee 1: ID 101, Name: John Doe, Position: Manager, Department: Sales, Salary: $65,000, Joining Date: 2022-01-15.
    - Employee 2: ID 102, Name: Jane Smith, Position: Analyst, Department: Finance, Salary: $50,000, Joining Date: 2022-03-10.
    - Employee 3: ID 103, Name: Michael Johnson, Position: Developer, Department: IT, Salary: $55,000, Joining Date: 2022-02-05.
 
-6. Span the "Employee ID" and "Name" headings across two columns using the `colspan` attribute.
+1. Span the "Employee ID" and "Name" headings across two columns using the `colspan` attribute.
 
-7. In the "Position" column of Employee 3, span two rows using the `rowspan` attribute.
+1. In the "Position" column of Employee 3, span two rows using the `rowspan` attribute.
 
-9. Ensure that each table cell is appropriately styled using the `border="1"` attribute.
+1. Ensure that each table cell is appropriately styled using the `border="1"` attribute.
 
 Test your understanding of various table elements to effectively present employee data in a structured and visually appealing manner. Best of luck!
 
