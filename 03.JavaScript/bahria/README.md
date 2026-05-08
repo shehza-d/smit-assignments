@@ -1,15 +1,32 @@
-# **1. CLI Calculator (Prompt-Based)**
+# **Basic Input/Output Problems**
 
 ## **Objective**
 
-Build a simple calculator using `prompt()` that performs basic arithmetic operations.
+Practice taking input and displaying output.
+
+## **Tasks**
+
+1. Take two numbers and print their sum
+2. Take age and check if user can vote (18+)
+3. Convert temperature (Celsius → Fahrenheit) Formula: $ula: \(F = C \times \frac{9}{5} + 32\)
+
+$a^2
+
+4. Swap two numbers
+5. Take a number and check if it is even or odd
+
+# **Basic Calculator**
+
+## **Objective**
+
+Build a simple calculator using that performs basic arithmetic operations.
 
 ## **Requirements**
 
 - Take two numbers as input using `prompt()`
 - Take an operator (`+`, `-`, `*`, `/`)
 - Use `if-else` or `switch` to perform calculation
-- Display result using `console.log()` or `alert()`
+- Display the result.
 
 ## **Example**
 
@@ -22,24 +39,6 @@ Operator: *
 Output:
 Result: 50
 ```
-
----
-
-# **2. Basic Input/Output Problems**
-
-## **Objective**
-
-Practice taking input and displaying output.
-
-## **Tasks**
-
-1. Take two numbers and print their sum
-2. Take a number and check if it is even or odd
-3. Take age and check if user can vote (18+)
-4. Swap two numbers
-5. Convert temperature (Celsius → Fahrenheit)
-
----
 
 # **3. Button Counter**
 
@@ -57,8 +56,6 @@ Learn basic DOM interaction.
 
 - Add a reset button
 
----
-
 # **4. Basic Form Input Display**
 
 ## **Objective**
@@ -74,8 +71,6 @@ Capture user input from a form and display it.
 - On submit:
   - Prevent page reload
   - Display entered data on screen
-
----
 
 # **5. Loop Practice Set**
 
@@ -93,8 +88,6 @@ Build logic using loops.
 - Reverse a number
 - Check palindrome number
 - Check prime number
-
----
 
 # **6. Student Marks System (Arrays)**
 
@@ -116,8 +109,6 @@ Work with arrays and basic calculations.
 ## **Bonus**
 
 - Count how many students passed (≥ 50)
-
----
 
 # **7. String Utility Program**
 
@@ -141,8 +132,6 @@ Reversed: madam
 Palindrome: Yes
 ```
 
----
-
 # **8. Marks Analyzer (Integrated Project)**
 
 ## **Objective**
@@ -165,8 +154,6 @@ Combine arrays + loops + functions.
 ## **Bonus**
 
 - Show result in browser (DOM)
-
----
 
 # **9. Pattern Problems**
 
@@ -208,24 +195,16 @@ Improve logical thinking using nested loops.
 - Students must **explain logic before coding**
 - Code without explanation = incomplete
 
----
-
 # **Teaching Tip (use in README)**
 
 👉 “First write logic in comments, then code”
-
----
 
 If you want next, I can:
 
 - Turn each of these into **separate README.md files**
 - Or add **starter code templates for each task**
 
----
-
 Here are **ready-to-use problem sets** you can directly give your students. They’re structured by difficulty and match your 1-month plan.
-
----
 
 # **Problem Set 1: Basics (Week 1)**
 
@@ -241,8 +220,6 @@ Here are **ready-to-use problem sets** you can directly give your students. They
 5. Take three numbers and print the largest
 6. Build a simple calculator using `if-else` (+, −, ×, ÷)
 7. Check if a number is positive, negative, or zero
-
----
 
 # **Problem Set 2: Loops (Week 2)**
 
@@ -262,8 +239,6 @@ Here are **ready-to-use problem sets** you can directly give your students. They
 
 7. Check if a number is palindrome
 8. Check if a number is prime
-
----
 
 # **Problem Set 3: Nested Loops (Logic Building)**
 
@@ -307,8 +282,6 @@ Here are **ready-to-use problem sets** you can directly give your students. They
 
 👉 Force students to **explain logic before coding**
 
----
-
 # **Problem Set 4: Functions (Week 3)**
 
 ### Easy
@@ -325,8 +298,6 @@ Here are **ready-to-use problem sets** you can directly give your students. They
 
 5. Function to check prime number
 6. Function to generate Fibonacci series (n terms)
-
----
 
 # **Problem Set 5: Arrays**
 
@@ -345,8 +316,6 @@ Here are **ready-to-use problem sets** you can directly give your students. They
 5. Reverse an array
 6. Find second largest number
 
----
-
 # **Problem Set 6: Strings (Week 4)**
 
 ### Easy
@@ -364,8 +333,6 @@ Here are **ready-to-use problem sets** you can directly give your students. They
 5. Count vowels in a string
 6. Find frequency of a character
 
----
-
 # **Problem Set 7: Mini JS + DOM (Final)**
 
 ### Tasks
@@ -375,16 +342,12 @@ Here are **ready-to-use problem sets** you can directly give your students. They
 3. Simple calculator (UI + JS)
 4. Add items to a list (basic todo)
 
----
-
 # **How to Use (important)**
 
 - Give **5–6 questions per class**, not all
 - Mix easy + medium + 1 hard
 - Make them **dry run on board first**
 - Don’t give solutions immediately
-
----
 
 If you want, I can next give you:
 
