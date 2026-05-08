@@ -12,19 +12,13 @@ Main reason of giving an assignment is to give hands-on practice to student of a
 
 Remember to provide clear instructions and resources if needed, and encourage students to explore and experiment beyond the basic requirements of the assignments. This will allow them to develop their creativity and problem-solving skills.
 
- <!--| | No.                     | Assignment |
- | ---- | ----------------------- |
- | 1.   | Odd Even Calculator     |
- | 2.   | Weather App             |
- | 3.   | CRUD with Express       |
- | 4.   | CRUD with MongoDB       |
- | 0.   | to be updated           |
- | 5.   | ChatApp with Socket.IO  |
- | 6.   | Pizza Chatbot           |
- | 7.   | Hotel booking Assistant |
- | 8.   | Online Store Assistant  |
- | 9.   | Weather Assistant       |
- | 10.  |                         | -->
+### In AI Era assignments should require
+
+- modification
+- explanation
+- personalization
+- live coding
+- debugging
 
 ### Resources
 
