@@ -1,11 +1,10 @@
 # Loops 2
 
-
-### Problem Statement
+## Problem Statement
 
 Print all the multiples of 0.13 less then 1.
 
-### Sample Output
+## Sample Output
 
 ```bash
 0.13

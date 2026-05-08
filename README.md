@@ -1,6 +1,6 @@
 # SMIT Assignments
 
-Main reason of giving an assignment is to give hands-on practice to student of all the topic taught in class. if students don't complete their assignments they can't learn further.
+Main reason of giving an assignment is to give hands-on practice to student of all the topic taught in class. If students don't complete their assignments they can't learn further.
 
 ## The assignments should
 
@@ -14,11 +14,11 @@ Remember to provide clear instructions and resources if needed, and encourage st
 
 ### In AI Era assignments should require
 
-- modification
-- explanation
-- personalization
-- live coding
-- debugging
+- Modification
+- Explanation
+- Personalization
+- Live coding
+- Debugging
 
 ### Resources
 

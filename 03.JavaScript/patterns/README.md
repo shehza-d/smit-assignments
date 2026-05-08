@@ -60,6 +60,11 @@ Print the following patterns.
  *********
 ```
 
+Important
+
+- Students must explain logic before coding
+- Code without explanation = incomplete
+
 > Note: If you want to challenge yourself try printing all patterns dynamically according to the value of N.
 
 Example:

@@ -10,3 +10,7 @@ Add 2 numbers and show their output.
 1. Second **prompt** should ask for number 1: `Enter first number:`
 1. Third **prompt** should ask for number 2: `Enter second number:`
 1. Last **alert** should display calculated result.
+
+---
+
+Class Practice: Take age as input and print if eligible to vote (18+).
