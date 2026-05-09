@@ -1,6 +1,6 @@
 # Prompt Password
 
-## <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/74ce8ea6-0088-4518-b7e0-3874730dddc5" />
+## <img width="1920" height="1080" alt="Open on Chrome" src="https://github.com/user-attachments/assets/74ce8ea6-0088-4518-b7e0-3874730dddc5" />
 
 1. The Standard Markdown Method
 
