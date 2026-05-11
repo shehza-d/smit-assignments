@@ -9,8 +9,6 @@ Practice taking input and displaying output.
 1. Take two numbers and print their sum
 2. Take age and check if user can vote (18+)
 3. Convert temperature
-   - Celsius → Fahrenheit Formula: $F = C \times \frac{9}{5} + 32$
-   - Fahrenheit → Celsius Formula: $C = (F - 32) \times \frac{5}{9}$
 
 4. Swap two numbers
 5. Take a number and check if it is even or odd

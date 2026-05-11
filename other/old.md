@@ -6,6 +6,8 @@ https://github.com/bradtraversy/50projects50days
 
 ---
 
+https://github.com/shehza-d/teaching-web-at-SMIT-B11/blob/main/07.LeetCode/05.addDigits.js
+
 https://innosufiyan.hashnode.dev/assignments-css
 https://innosufiyan.hashnode.dev/javascript-assignments-b11
 

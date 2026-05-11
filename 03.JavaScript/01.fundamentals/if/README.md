@@ -1,6 +1,6 @@
-// Check karo kya ye number 5 ky table ma aata hy ya nhi
+Check karo kya ye given number 5 ky table ma aata hy ya nhi
 
-```js
+<!-- ```js
 num = Number(prompt("Enter number"));
 
 if (num % 5 == 0) {
@@ -8,4 +8,4 @@ if (num % 5 == 0) {
 } else {
   console.log("ye number 5 ky table ma NHI aata hy");
 }
-```
+``` -->

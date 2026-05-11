@@ -2,13 +2,13 @@
 
 A fruit shop wants to know how many apples are in stock.
 
-## 📥 Input Array:
+## 📥 Input Array
 
-```js
-["mango", "apple", "watermelon", "apple", "grape", "Apple"];
+```py
+["mango", "apple", "watermelon", "apple", "grape", "Apple"]
 ```
 
-## 📤 Expected Output: 2
+## 📤 Expected Output: 3
 
 ## 📌 Requirements
 
