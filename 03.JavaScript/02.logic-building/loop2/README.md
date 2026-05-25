@@ -1,5 +1,7 @@
 # Loops 2
 
+- output the factors of a number
+
 ## Problem Statement
 
 Print all the multiples of 0.13 less then 1.
