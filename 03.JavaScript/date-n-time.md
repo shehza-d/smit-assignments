@@ -1,4 +1,6 @@
-# *Print dates* in the following formats with JavaScript
+# Date and Time
+
+*Print dates* in the following formats with JavaScript
 
 1. `Wed 24-Apr 7:45 PM`
 
